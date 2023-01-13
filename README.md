@@ -1,4 +1,4 @@
-# Hello PWA
+# Simple Hello World PWA
 The classic Hello World program as a Progressive Web App
 
 Written following this tutorial:
